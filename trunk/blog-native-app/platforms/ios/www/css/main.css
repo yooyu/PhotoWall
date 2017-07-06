@@ -1,0 +1,36 @@
+html {
+    margin:0 auto;
+    padding:0;
+    height: 100%;
+    width:100%;
+}
+
+body {
+    padding: 0px !important;
+    margin: 0px !important;
+    background: #ffffff;
+    height: inherit;
+    width: inherit;
+}
+
+body #root, #app{
+    padding: 0px;
+    margin: 0px;
+    height: inherit;
+    width:inherit;
+}
+
+#app>#header{
+  height: 64px !important;
+}
+
+#app>#content{
+  height: calc(100% - (60px + 64px)) !important;
+}
+
+#app>#bottom{
+  height: 60px !important;
+}
+#app>#content{
+  overflow-y: scroll;
+}

@@ -1,0 +1,40 @@
+/* ---------------------------------------------------------------------- */
+
+
+/*	From Medium Devices Up To Larger Devices
+ /* ---------------------------------------------------------------------- */
+@media (min-width: 1600px) {
+  #app>#bottom>#nav>div{
+    padding-left:180px !important;
+  }
+}
+@media (min-width: 1200px) {
+   
+}
+
+@media (min-width: 980px) and (max-width: 1199px) {
+    #app>#bottom>#nav>div{
+      padding-left:80px !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    #app>#bottom>#nav>div{
+      padding-left:50px !important;
+    }
+}
+@media (min-width: 0px) and (max-width: 320px) {
+    #app>#bottom>#nav>div>a>button>div{
+      width:65px;
+    }
+
+    #app>#bottom>#nav>div>a>button{
+      min-width: 60px !important;
+      padding-top: 8px !important;
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+      padding-bottom: 8px !important;
+    }
+}
+@media (min-width: 321px) and (max-width: 480px) {
+    
+}
