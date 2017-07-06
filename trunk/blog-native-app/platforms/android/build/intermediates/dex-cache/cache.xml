@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\project\customer\blog-native-app\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\project\customer\blog-native-app\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_b96d57766f3b995520e751d5cb8d8ccfa6ab52f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\customer\blog-native-app\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\project\customer\blog-native-app\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_ebc9ee70bd8ff5d0d665088ea3cdff3aefbed862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sgmuserprofile\pvh33m\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\project\customer\blog-native-app\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_ebf55f2c1d82974740b046dd248bb75cc456802e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\customer\blog-native-app\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a1530ac850543228ac856fe951d258efe29f918">
+        <dex dex="D:\project\customer\blog-native-app\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_71c8345d7361351a7ddbd8a8ce4653832984101b.jar" />
+    </item>
+
+</items>

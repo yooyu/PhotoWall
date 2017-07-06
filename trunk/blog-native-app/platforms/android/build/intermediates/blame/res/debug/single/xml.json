@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\project\\customer\\blog-native-app\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\project\\customer\\blog-native-app\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "D:\\project\\customer\\blog-native-app\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "D:\\project\\customer\\blog-native-app\\platforms\\android\\res\\xml\\provider_paths.xml"
+    }
+]
